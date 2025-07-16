@@ -5,25 +5,24 @@ Steps to run
 2. cd store-rating-platform
 
 3. Setup backend:
-   cd backend
-   npm install
+4. cd backend
+5. npm install
 
-4. create a .env file:
-   PORT=5000
-   DB_NAME=your_db
-   DB_USER=your_user
-   DB_PASSWORD=your_password
-   JWT_SECRET=your_jwt_secret
+6. create a .env file:
+7. PORT=5000
+8. DB_NAME=your_db
+9. DB_USER=your_user
+10. DB_PASSWORD=your_password
+11. JWT_SECRET=your_jwt_secret
 
-5. Start backend:
-   npm run dev
+12. Start backend:
+13. npm run dev
 
-6. Setup the Frontend
-   cd ../frontend
-   npm install
+14. Setup the Frontend:
+15. cd ../frontend
+16. npm install
 
-7. Create .env file:
-   VITE_BACKEND_URL=http://localhost:5000
-
-8. Start frontend:
-   npm run dev
+17. Create .env file:
+18. VITE_BACKEND_URL=http://localhost:5000
+19. Start frontend:
+20. npm run dev
