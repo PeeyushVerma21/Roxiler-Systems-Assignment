@@ -2,7 +2,7 @@ Steps to run
 
 1. Clone the Repository
 
-2. cd store-rating-platform
+2. cd Roxiler-Systems-Assignment
 
 3. Setup backend:
 4. cd backend
