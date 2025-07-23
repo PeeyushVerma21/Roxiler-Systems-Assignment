@@ -71,7 +71,7 @@ const StoreList = () => {
               <td className="p-2">{store.name}</td>
               <td className="p-2">{store.email}</td>
               <td className="p-2">{store.address}</td>
-              <td className="p-2">{store.rating || 'N/A'}</td>
+              <td className="p-2">{store.averageRating || 'N/A'}</td>
             </tr>
           ))}
         </tbody>
